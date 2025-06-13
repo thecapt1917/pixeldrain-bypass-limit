@@ -9,6 +9,7 @@
 
 ## ✨ Features
 
+- 🚀 Bypassed speed limit
 - ✅ Generate bypassed direct download links from Pixeldrain URLs
 - 📦 Preview file name, size, upload date, views & downloads
 - 🔗 Copy-ready download link with one click
